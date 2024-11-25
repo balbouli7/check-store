@@ -40,6 +40,8 @@ nav{
     background-color: beige;
       
 }
+button{
+    background-color: green;}
 footer{
     background: linear-gradient(#09203F ,#537895);
     text-align: center;
